@@ -1,2 +1,2 @@
-# acf-gallery
+# ACF Gallery Shortcode with Lightbox
 
