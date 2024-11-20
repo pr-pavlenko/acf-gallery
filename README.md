@@ -34,7 +34,6 @@ Use the Shortcode
 Insert the following shortcode in a post or page where you want to display the gallery:
 
 [display_acf_gallery name="gallery"]
-
 Replace "gallery" with the field name of your ACF Gallery.
 
 Customization
